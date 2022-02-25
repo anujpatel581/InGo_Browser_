@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="32d"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dev"
+    android:orientation="vertical"
+    android:paddingLeft="50dp"
+    android:paddingRight="16dp"
+    android:theme="@style/Theme.AppCompat.Light.Dialog.Alert">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="KUNDAN KUMAR"
+        android:textSize="34sp"
+        android:layout_marginTop="140dp"
+        android:textStyle="bold"
+        android:textColor="@color/white">
+
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gmail I'd : kk3846064@gmail.com"
+        android:textSize="20dp"
+
+        android:textStyle="bold"
+        android:textColor="@color/white">
+
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ph. No : 7061236761"
+        android:textSize="34sp"
+
+        android:textStyle="bold"
+        android:textColor="@color/white">
+
+    </TextView>
+</LinearLayout>
